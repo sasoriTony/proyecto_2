@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SasoriLogo")(type "KiCad")(uri "C:/Users/HP/Desktop/CURSO_KICAD_PETER_DALMARIS/Proyecto_2/LibreriaProyecto")(options "")(descr ""))
+  (lib (name "SasoriLogo_2")(type "KiCad")(uri "C:/Users/HP/Desktop/CURSO_KICAD_PETER_DALMARIS/Proyecto_2/LibreriaProyecto")(options "")(descr ""))
+  (lib (name "KicadLogo")(type "KiCad")(uri "C:/Users/HP/Desktop/CURSO_KICAD_PETER_DALMARIS/Proyecto_2/LibreriaProyecto")(options "")(descr ""))
+)
